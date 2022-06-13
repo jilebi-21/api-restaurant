@@ -1,0 +1,23 @@
+{
+	"response": [
+		{
+			"res_id": 429121,
+			"res_name": "Paradise Biryani",
+			"res_summary": "Biryani, Kebabs, North Indian, Hyderabadi",
+			"res_rating": 3.5,
+			"res_totalRating": 676,
+			"res_costForTwo": 400,
+			"res_deliveryTime": 29
+		},
+		{
+			"res_id": 429122,
+			"res_name": "Burger King",
+			"res_summary": "American, Fast Food",
+			"res_rating": 4.2,
+			"res_totalRating": 676,
+			"res_costForTwo": 350,
+			"res_deliveryTime": 28
+		}
+	]
+
+}
