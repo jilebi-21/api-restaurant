@@ -17,6 +17,42 @@
 			"res_totalRating": 676,
 			"res_costForTwo": 350,
 			"res_deliveryTime": 28
+		},
+		{
+			"res_id": 429123,
+			"res_name": "Sai Ram Parlour",
+			"res_summary": "South Indian",
+			"res_rating": 4.2,
+			"res_totalRating": 1323,
+			"res_costForTwo": 50,
+			"res_deliveryTime": 30
+		},
+		{
+			"res_id": 429124,
+			"res_name": "Subway",
+			"res_summary": "Fast Food, Healthy Food, Salads, Snacks, Desserts, Beverages",
+			"res_rating": 4.0,
+			"res_totalRating": 125,
+			"res_costForTwo": 300,
+			"res_deliveryTime": 28
+		},
+		{
+			"res_id": 429125,
+			"res_name": "Best Western Ramachandra",
+			"res_summary": "Indian, Chinese, Tandoor, Italian",
+			"res_rating": 4.2,
+			"res_totalRating": 160,
+			"res_costForTwo": 400,
+			"res_deliveryTime": 40
+		},
+		{
+			"res_id": 429126,
+			"res_name": "The Thick Shake Factory",
+			"res_summary": "South Indian",
+			"res_rating": 4.0,
+			"res_totalRating": 106,
+			"res_costForTwo": 300,
+			"res_deliveryTime": 34
 		}
 	]
 
