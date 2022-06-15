@@ -53,6 +53,33 @@
 			"res_totalRating": 106,
 			"res_costForTwo": 300,
 			"res_deliveryTime": 34
+		},
+		{
+			"res_id": 429127,
+			"res_name": "KFC",
+			"res_summary": "American, Snacks, Biryani",
+			"res_rating": 4.0,
+			"res_totalRating": 1250,
+			"res_costForTwo": 400,
+			"res_deliveryTime": 31
+		},
+		{
+			"res_id": 429128,
+			"res_name": "AM 2 PM",
+			"res_summary": "Indian",
+			"res_rating": 3.1,
+			"res_totalRating": 160,
+			"res_costForTwo": 65,
+			"res_deliveryTime": 29
+		},
+		{
+			"res_id": 429129,
+			"res_name": "The Momo Box",
+			"res_summary": "Chinese, Tibetan, Nepalese, Pizzas, Snacks, Beverages, Combo",
+			"res_rating": 2.1,
+			"res_totalRating": 28,
+			"res_costForTwo": 150,
+			"res_deliveryTime": 54
 		}
 	]
 
